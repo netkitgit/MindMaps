@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1553606453864" ID="ID_1621550763" MODIFIED="1554724198114" TEXT="Git">
+<node CREATED="1553606453864" ID="ID_1621550763" MODIFIED="1554813774322" TEXT="Git">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -15,7 +15,7 @@
   </body>
 </html>
 </richcontent>
-<node CREATED="1553606944555" ID="ID_191030169" MODIFIED="1553610339916" POSITION="right" TEXT="&#x412;&#x435;&#x442;&#x43a;&#x438; (Branch)">
+<node CREATED="1553606944555" FOLDED="true" ID="ID_191030169" MODIFIED="1554991890394" POSITION="right" TEXT="&#x412;&#x435;&#x442;&#x43a;&#x438; (Branch)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -99,7 +99,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1553607766653" ID="ID_1835458833" MODIFIED="1553609925543" POSITION="right" TEXT="&#x41a;&#x43e;&#x43c;&#x438;&#x442; (Commit)">
+<node CREATED="1553607766653" FOLDED="true" ID="ID_1835458833" MODIFIED="1554991891313" POSITION="right" TEXT="&#x41a;&#x43e;&#x43c;&#x438;&#x442; (Commit)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -168,7 +168,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1553674890614" ID="ID_1655086383" MODIFIED="1553674896705" POSITION="right" TEXT="&#x420;&#x435;&#x43f;&#x43e;&#x437;&#x438;&#x442;&#x43e;&#x440;&#x438;&#x439; &#x443;&#x434;&#x430;&#x43b;&#x435;&#x43d;&#x43d;&#x44b;&#x439;">
+<node CREATED="1553674890614" FOLDED="true" ID="ID_1655086383" MODIFIED="1554991892200" POSITION="right" TEXT="&#x420;&#x435;&#x43f;&#x43e;&#x437;&#x438;&#x442;&#x43e;&#x440;&#x438;&#x439; &#x443;&#x434;&#x430;&#x43b;&#x435;&#x43d;&#x43d;&#x44b;&#x439;">
 <node CREATED="1553674911775" ID="ID_562976300" MODIFIED="1553674939597" TEXT="DVCS">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -194,7 +194,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1553609363807" FOLDED="true" ID="ID_1295596657" MODIFIED="1553611120967" POSITION="left" TEXT="&#x420;&#x430;&#x431;&#x43e;&#x442;&#x430; &#x441; Git">
+<node CREATED="1553609363807" FOLDED="true" ID="ID_1295596657" MODIFIED="1554992580870" POSITION="left" TEXT="&#x420;&#x430;&#x431;&#x43e;&#x442;&#x430; &#x441; Git">
 <node CREATED="1553609375048" ID="ID_1017473739" MODIFIED="1553609397469" TEXT="&#x417;&#x430;&#x445;&#x43e;&#x434;&#x438;&#x43c; &#x432; &#x43f;&#x430;&#x43f;&#x43a;&#x443; &#x441; &#x43f;&#x440;&#x43e;&#x435;&#x43a;&#x442;&#x43e;&#x43c;"/>
 <node CREATED="1553609397795" ID="ID_1772123993" MODIFIED="1553609434904" TEXT="&#x421;&#x43e;&#x437;&#x434;&#x430;&#x435;&#x43c; &#x440;&#x435;&#x43f;&#x43e;&#x437;&#x438;&#x442;&#x43e;&#x440;&#x438;&#x439; &gt; git init">
 <richcontent TYPE="NOTE"><html>
@@ -267,7 +267,7 @@
 </node>
 <node CREATED="1553611082203" ID="ID_732595838" MODIFIED="1553611108762" TEXT="&#x41f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x44f;&#x435;&#x43c; git &#x43b;&#x43e;&#x433; &gt; git log"/>
 </node>
-<node CREATED="1553611111655" FOLDED="true" ID="ID_223784722" MODIFIED="1553674598638" POSITION="left" TEXT="&#x411;&#x430;&#x437;&#x43e;&#x432;&#x44b;&#x435; &#x43a;&#x43e;&#x43c;&#x430;&#x43d;&#x434;&#x44b;">
+<node CREATED="1553611111655" FOLDED="true" ID="ID_223784722" MODIFIED="1555069376342" POSITION="left" TEXT="&#x411;&#x430;&#x437;&#x43e;&#x432;&#x44b;&#x435; &#x43a;&#x43e;&#x43c;&#x430;&#x43d;&#x434;&#x44b;">
 <node CREATED="1553611126811" ID="ID_1459134901" MODIFIED="1553611311471" TEXT="git init">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -328,9 +328,7 @@
   </body>
 </html></richcontent>
 </node>
-</node>
-<node CREATED="1553612352565" ID="ID_346322880" MODIFIED="1553678684409" POSITION="left" TEXT="&#x420;&#x430;&#x431;&#x43e;&#x442;&#x430; &#x441; &#x432;&#x435;&#x442;&#x43a;&#x430;&#x43c;&#x438;">
-<node CREATED="1553612484004" ID="ID_66697320" MODIFIED="1553612525589" TEXT="git branch">
+<node CREATED="1553612484004" ID="ID_66697320" MODIFIED="1554813786162" TEXT="git branch">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -345,7 +343,9 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1553612408085" ID="ID_323430589" MODIFIED="1553612446319" TEXT="git branch NAME">
+</node>
+<node CREATED="1553612352565" ID="ID_346322880" MODIFIED="1555069361239" POSITION="left" TEXT="&#x420;&#x430;&#x431;&#x43e;&#x442;&#x430; &#x441; &#x432;&#x435;&#x442;&#x43a;&#x430;&#x43c;&#x438;">
+<node CREATED="1553612408085" ID="ID_323430589" MODIFIED="1554813786482" TEXT="git branch NAME">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -355,7 +355,8 @@
       &#1089;&#1086;&#1079;&#1076;&#1072;&#1077;&#1084; &#1074;&#1077;&#1090;&#1082;&#1091; &#1089; &#1080;&#1084;&#1077;&#1085;&#1077;&#1084; NAME
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1553612447941" ID="ID_1825176497" MODIFIED="1553612472167" TEXT="git checkout NAME">
 <richcontent TYPE="NOTE"><html>
@@ -412,9 +413,11 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1553674983352" ID="ID_1381912302" MODIFIED="1553674994070" POSITION="left" TEXT="&#x420;&#x430;&#x431;&#x43e;&#x442;&#x430; &#x441; DVCS">
+<node CREATED="1553674983352" ID="ID_1381912302" MODIFIED="1554992619329" POSITION="left" TEXT="&#x420;&#x430;&#x431;&#x43e;&#x442;&#x430; &#x441; DVCS">
 <node CREATED="1553674996305" ID="ID_1302281818" MODIFIED="1553675023455" TEXT="&#x41f;&#x440;&#x43e;&#x435;&#x43a;&#x442; &#x435;&#x441;&#x442;&#x44c; &#x432; &#x440;&#x435;&#x43f;&#x43e;&#x437;&#x438;&#x442;&#x43e;&#x440;&#x438;&#x438; &#x438; &#x43c;&#x44b; &#x43a;&#x43b;&#x43e;&#x43d;&#x438;&#x440;&#x443;&#x435;&#x43c; &#x435;&#x433;&#x43e; &#x441;&#x435;&#x431;&#x435; CLONE"/>
-<node CREATED="1553675024142" ID="ID_950824378" MODIFIED="1553845450928" TEXT="&#x41f;&#x440;&#x43e;&#x435;&#x43a;&#x442; &#x435;&#x441;&#x442;&#x44c; &#x43b;&#x43e;&#x43a;&#x430;&#x43b;&#x44c;&#x43d;&#x43e; &#x438; &#x43d;&#x443;&#x436;&#x43d;&#x43e; &#x441;&#x43e;&#x437;&#x434;&#x430;&#x442;&#x44c; &#x435;&#x433;&#x43e; &#x432; &#x443;&#x434;&#x430;&#x43b;&#x435;&#x43d;&#x43d;&#x43e;&#x43c; &#x440;&#x435;&#x43f;&#x43e;&#x437;&#x438;&#x442;&#x43e;&#x440;&#x438;&#x438;, &#x43c;&#x44b; &#x43f;&#x443;&#x448;&#x438;&#x43c; &#x43f;&#x440;&#x43e;&#x435;&#x43a;&#x442; &#x442;&#x443;&#x434;&#x430; PUSH">
+<node CREATED="1553675024142" ID="ID_950824378" MODIFIED="1554993105987" TEXT="&#x41f;&#x440;&#x43e;&#x435;&#x43a;&#x442; &#x435;&#x441;&#x442;&#x44c; &#x43b;&#x43e;&#x43a;&#x430;&#x43b;&#x44c;&#x43d;&#x43e; &#x438; &#x43d;&#x443;&#x436;&#x43d;&#x43e; &#x441;&#x43e;&#x437;&#x434;&#x430;&#x442;&#x44c; &#x435;&#x433;&#x43e; &#x432; &#x443;&#x434;&#x430;&#x43b;&#x435;&#x43d;&#x43d;&#x43e;&#x43c; &#x440;&#x435;&#x43f;&#x43e;&#x437;&#x438;&#x442;&#x43e;&#x440;&#x438;&#x438;, &#x43c;&#x44b; &#x43f;&#x443;&#x448;&#x438;&#x43c; &#x43f;&#x440;&#x43e;&#x435;&#x43a;&#x442; &#x442;&#x443;&#x434;&#x430; PUSH">
+<arrowlink DESTINATION="ID_950824378" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1342969558" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_950824378" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1342969558" SOURCE="ID_950824378" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <node CREATED="1553675751369" ID="ID_672397233" MODIFIED="1553675786387" TEXT="&#x421;&#x43d;&#x430;&#x447;&#x430;&#x43b;&#x430; &#x441;&#x43e;&#x437;&#x434;&#x430;&#x435;&#x43c; &#x441;&#x432;&#x44f;&#x437;&#x44c; &#x43b;&#x43e;&#x43a;&#x430;&#x43b;&#x44c;&#x43d;&#x43e;&#x433;&#x43e; &#x438; &#x443;&#x434;&#x430;&#x43b;&#x435;&#x43d;&#x43d;&#x43e;&#x433;&#x43e; &#x440;&#x435;&#x43f;&#x43e;&#x437;&#x438;&#x442;&#x43e;&#x440;&#x438;&#x44f;">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -426,7 +429,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1553675788775" ID="ID_102002515" MODIFIED="1553675813550" TEXT="&#x417;&#x430;&#x442;&#x435;&#x43c; &#x43f;&#x443;&#x448;&#x438;&#x43c; &#x43d;&#x430;&#x448; &#x43b;&#x43e;&#x43a;&#x430;&#x43b;&#x44c;&#x43d;&#x44b;&#x439;  &#x440;&#x435;&#x43f;&#x43e;&#x437;&#x438;&#x442;&#x43e;&#x440;&#x438;&#x439;">
+<node CREATED="1553675788775" ID="ID_102002515" MODIFIED="1554991869857" TEXT="&#x417;&#x430;&#x442;&#x435;&#x43c; &#x43f;&#x443;&#x448;&#x438;&#x43c; &#x43d;&#x430;&#x448; &#x43b;&#x43e;&#x43a;&#x430;&#x43b;&#x44c;&#x43d;&#x44b;&#x439;  &#x440;&#x435;&#x43f;&#x43e;&#x437;&#x438;&#x442;&#x43e;&#x440;&#x438;&#x439;">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -434,11 +437,12 @@
   <body>
     <pre id="empty-setup-push-repo-echo" class="f5" style="font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, Courier, monospace; font-size: 14px; margin-bottom: 0px; margin-top: 0px; color: rgb(36, 41, 46); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px">&gt; git push -u origin master</pre>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1553611726187" ID="ID_587295728" MODIFIED="1553679182323" POSITION="left" TEXT=".gitignore">
+<node CREATED="1553611726187" FOLDED="true" ID="ID_587295728" MODIFIED="1554992579109" POSITION="left" TEXT=".gitignore">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -453,7 +457,7 @@
 <node CREATED="1553611875380" ID="ID_1259476625" MODIFIED="1553611894181" TEXT="&#x415;&#x441;&#x442;&#x44c; &#x43c;&#x43d;&#x43e;&#x433;&#x43e; &#x431;&#x430;&#x437;&#x43e;&#x432;&#x44b;&#x445; &#x448;&#x430;&#x431;&#x43b;&#x43e;&#x43d; &#x434;&#x43b;&#x44f; &#x440;&#x430;&#x437;&#x43d;&#x44b;&#x445; &#x44f;&#x437;&#x44b;&#x43a;&#x43e;&#x432; &#x43f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x44f;"/>
 <node CREATED="1553679187295" ID="ID_1270156212" MODIFIED="1553679189829" TEXT="https://gitignore.io/"/>
 </node>
-<node CREATED="1553678003675" ID="ID_607298733" MODIFIED="1553678013397" POSITION="left" TEXT="Merge conflict">
+<node CREATED="1553678003675" FOLDED="true" ID="ID_607298733" MODIFIED="1554991887894" POSITION="left" TEXT="Merge conflict">
 <node CREATED="1553678015173" ID="ID_584201842" MODIFIED="1553678020701" TEXT="git mergetool"/>
 </node>
 </node>
