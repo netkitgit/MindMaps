@@ -99,7 +99,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1553607766653" FOLDED="true" ID="ID_1835458833" MODIFIED="1554991891313" POSITION="right" TEXT="&#x41a;&#x43e;&#x43c;&#x438;&#x442; (Commit)">
+<node CREATED="1553607766653" ID="ID_1835458833" MODIFIED="1556281354749" POSITION="right" TEXT="&#x41a;&#x43e;&#x43c;&#x438;&#x442; (Commit)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -168,7 +168,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1553674890614" FOLDED="true" ID="ID_1655086383" MODIFIED="1554991892200" POSITION="right" TEXT="&#x420;&#x435;&#x43f;&#x43e;&#x437;&#x438;&#x442;&#x43e;&#x440;&#x438;&#x439; &#x443;&#x434;&#x430;&#x43b;&#x435;&#x43d;&#x43d;&#x44b;&#x439;">
+<node CREATED="1553674890614" ID="ID_1655086383" MODIFIED="1556281360610" POSITION="right" TEXT="&#x420;&#x435;&#x43f;&#x43e;&#x437;&#x438;&#x442;&#x43e;&#x440;&#x438;&#x439; &#x443;&#x434;&#x430;&#x43b;&#x435;&#x43d;&#x43d;&#x44b;&#x439;">
 <node CREATED="1553674911775" ID="ID_562976300" MODIFIED="1553674939597" TEXT="DVCS">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -194,7 +194,22 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1553609363807" FOLDED="true" ID="ID_1295596657" MODIFIED="1554992580870" POSITION="left" TEXT="&#x420;&#x430;&#x431;&#x43e;&#x442;&#x430; &#x441; Git">
+<node CREATED="1556113268564" ID="ID_70267414" MODIFIED="1556113276675" POSITION="right" TEXT="Troubleshoots">
+<node CREATED="1556113278219" ID="ID_519908378" MODIFIED="1556283616523" TEXT="&#x41f;&#x440;&#x43e;&#x431;&#x43b;&#x435;&#x43c;&#x430; &#x441; SSL &#x441;&#x435;&#x440;&#x442;&#x438;&#x444;&#x438;&#x43a;&#x430;&#x442;&#x43e;&#x43c;">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      git config --global http.sslVerify false
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1553609363807" ID="ID_1295596657" MODIFIED="1556281256329" POSITION="left" TEXT="&#x420;&#x430;&#x431;&#x43e;&#x442;&#x430; &#x441; Git">
 <node CREATED="1553609375048" ID="ID_1017473739" MODIFIED="1553609397469" TEXT="&#x417;&#x430;&#x445;&#x43e;&#x434;&#x438;&#x43c; &#x432; &#x43f;&#x430;&#x43f;&#x43a;&#x443; &#x441; &#x43f;&#x440;&#x43e;&#x435;&#x43a;&#x442;&#x43e;&#x43c;"/>
 <node CREATED="1553609397795" ID="ID_1772123993" MODIFIED="1553609434904" TEXT="&#x421;&#x43e;&#x437;&#x434;&#x430;&#x435;&#x43c; &#x440;&#x435;&#x43f;&#x43e;&#x437;&#x438;&#x442;&#x43e;&#x440;&#x438;&#x439; &gt; git init">
 <richcontent TYPE="NOTE"><html>
@@ -267,7 +282,7 @@
 </node>
 <node CREATED="1553611082203" ID="ID_732595838" MODIFIED="1553611108762" TEXT="&#x41f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x44f;&#x435;&#x43c; git &#x43b;&#x43e;&#x433; &gt; git log"/>
 </node>
-<node CREATED="1553611111655" FOLDED="true" ID="ID_223784722" MODIFIED="1555069376342" POSITION="left" TEXT="&#x411;&#x430;&#x437;&#x43e;&#x432;&#x44b;&#x435; &#x43a;&#x43e;&#x43c;&#x430;&#x43d;&#x434;&#x44b;">
+<node CREATED="1553611111655" ID="ID_223784722" MODIFIED="1556281269943" POSITION="left" TEXT="&#x411;&#x430;&#x437;&#x43e;&#x432;&#x44b;&#x435; &#x43a;&#x43e;&#x43c;&#x430;&#x43d;&#x434;&#x44b;">
 <node CREATED="1553611126811" ID="ID_1459134901" MODIFIED="1553611311471" TEXT="git init">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -457,7 +472,7 @@
 <node CREATED="1553611875380" ID="ID_1259476625" MODIFIED="1553611894181" TEXT="&#x415;&#x441;&#x442;&#x44c; &#x43c;&#x43d;&#x43e;&#x433;&#x43e; &#x431;&#x430;&#x437;&#x43e;&#x432;&#x44b;&#x445; &#x448;&#x430;&#x431;&#x43b;&#x43e;&#x43d; &#x434;&#x43b;&#x44f; &#x440;&#x430;&#x437;&#x43d;&#x44b;&#x445; &#x44f;&#x437;&#x44b;&#x43a;&#x43e;&#x432; &#x43f;&#x440;&#x43e;&#x433;&#x440;&#x430;&#x43c;&#x43c;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x44f;"/>
 <node CREATED="1553679187295" ID="ID_1270156212" MODIFIED="1553679189829" TEXT="https://gitignore.io/"/>
 </node>
-<node CREATED="1553678003675" FOLDED="true" ID="ID_607298733" MODIFIED="1554991887894" POSITION="left" TEXT="Merge conflict">
+<node CREATED="1553678003675" ID="ID_607298733" MODIFIED="1556281554701" POSITION="left" TEXT="Merge conflict">
 <node CREATED="1553678015173" ID="ID_584201842" MODIFIED="1553678020701" TEXT="git mergetool"/>
 </node>
 </node>
