@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1553606453864" ID="ID_1621550763" MODIFIED="1554813774322" TEXT="Git">
+<node CREATED="1553606453864" ID="ID_1621550763" MODIFIED="1558437237391" TEXT="Git">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -205,8 +205,7 @@
       git config --global http.sslVerify false
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1553609363807" ID="ID_1295596657" MODIFIED="1556281256329" POSITION="left" TEXT="&#x420;&#x430;&#x431;&#x43e;&#x442;&#x430; &#x441; Git">
@@ -370,8 +369,7 @@
       &#1089;&#1086;&#1079;&#1076;&#1072;&#1077;&#1084; &#1074;&#1077;&#1090;&#1082;&#1091; &#1089; &#1080;&#1084;&#1077;&#1085;&#1077;&#1084; NAME
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1553612447941" ID="ID_1825176497" MODIFIED="1553612472167" TEXT="git checkout NAME">
 <richcontent TYPE="NOTE"><html>
@@ -452,8 +450,7 @@
   <body>
     <pre id="empty-setup-push-repo-echo" class="f5" style="font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, Courier, monospace; font-size: 14px; margin-bottom: 0px; margin-top: 0px; color: rgb(36, 41, 46); font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px">&gt; git push -u origin master</pre>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
